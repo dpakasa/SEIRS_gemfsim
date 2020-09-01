@@ -1,2 +1,2 @@
 # SEIRS_gemfsim
-SEIRS stochastic epidemic model
+An implementation of the GEMF simumlator
